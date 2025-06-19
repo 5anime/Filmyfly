@@ -1,5 +1,5 @@
 <?php  
-include '../config.php';  // Adjust path if needed
+include 'config.php';  // Adjust path if needed
 
 // Fetch all movies
 $movies = [];
