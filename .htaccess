@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Rewrite /movie/some-slug to movie.php?slug=some-slug
+RewriteRule ^movie/([^/]+)/?$ movie.php?slug=$1 [L,QSA]
