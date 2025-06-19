@@ -1,5 +1,5 @@
 <?php
-require_once '../config.php';
+require_once 'config.php';
 
 // Step 1: Get and sanitize the genre from the URL
 $genre = isset($_GET['genre']) ? trim($_GET['genre']) : '';
