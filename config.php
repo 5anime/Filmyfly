@@ -1,9 +1,9 @@
 <?php
 // config.php
 $host = 'localhost';
-$username = 'admin_hjswiohs';
-$password = 'ZzlYeN9j#zyd0_4h';
-$dbname = 'admin_hjswiohs';
+$username = 'admin-user';
+$password = '0123';
+$dbname = 'admin-name';
 
 // Create connection
 $conn = new mysqli($host, $username, $password, $dbname);
