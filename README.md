@@ -7,3 +7,5 @@ Code Developer - 1mb.dev
 -----------------------------Database requirement--------------------------------
 
 Contract Dev - https://www.instagram.com/1mb.dev/
+
+mv "-------------------------------- 1mb.deb"
