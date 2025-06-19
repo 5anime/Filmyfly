@@ -1,5 +1,5 @@
 <?php
-require_once '../config.php';
+require_once 'config.php';
 
 // Validate and sanitize the movie ID from the URL
 $movie_id = isset($_GET['id']) ? (int) $_GET['id'] : 0;
